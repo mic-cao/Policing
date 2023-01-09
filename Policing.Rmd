@@ -1,6 +1,6 @@
 ---
-title: "4110 Prelim II"
-author: "Taren Daniels, Aristotle Kolefas, Michael Cao"
+title: "Race-and-Policing"
+author: "Michael Cao"
 date: "2022-11-18"
 output: word_document
 ---
