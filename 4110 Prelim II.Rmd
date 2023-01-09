@@ -1,6 +1,6 @@
 ---
 title: "4110 Prelim II"
-author: "Taren Daniels, Aristotle Kolefas, Michael Cao"
+author: "Michael Cao, Taren Daniels, Aristotle Kolefas"
 date: "2022-11-18"
 output: word_document
 ---
