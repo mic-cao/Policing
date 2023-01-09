@@ -1,6 +1,6 @@
 ---
 title: "Race-and-Policing"
-author: "Michael Cao"
+author: "Taren Daniels, Aristotle Kolefas, Michael Cao"
 date: "2022-11-18"
 output: word_document
 ---
