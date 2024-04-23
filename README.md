@@ -1,7 +1,5 @@
 # Categorical Data Analysis - Policing
 
-## STSCI/BTRY 4110 - November 8, 2022
-
 ### Authors:
 Michael Cao, Taren Daniels, Aristotle Kolefas  
 **Net ID:** yc849, tbd33, aak99  
@@ -36,4 +34,4 @@ Our analysis reveals disparities in the treatment of marijuana offenders, sugges
 
 ---
 
-For more details, please refer to our paper.
+For more details, refer to the [full report](https://github.com/mic-cao/Policing/blob/main/Written%20Report.pdf).
