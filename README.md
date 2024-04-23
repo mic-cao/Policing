@@ -1,6 +1,6 @@
 # Categorical Data Analysis - Policing
 
-### Authors: Michael Cao, Taren Daniels, Aristotle Kolefas  
+## Authors: Michael Cao, Taren Daniels, Aristotle Kolefas  
 **Net ID:** yc849, tbd33, aak99  
 
 ---
