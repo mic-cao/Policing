@@ -36,3 +36,4 @@ Our analysis reveals disparities in the treatment of marijuana offenders, sugges
 
 ---
 
+For more details, please refer to our paper.
